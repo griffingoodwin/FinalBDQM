@@ -7,3 +7,5 @@ stdout5 - The output from GMP_SNN_test.py for the optimized NNFF - Lists the tra
 The screenshot file shows a couple of graphs of the output of GMP_SNN_test.py
 
 testRun5.sh - The PBS file I submitted when I ran the program on PACE
+
+The discovery of these optimal parameetrs was a group effort, but I was able to figure out using 6 gaussians and a max MCSH of 8 with a 6 layer neural network was most optimal!
